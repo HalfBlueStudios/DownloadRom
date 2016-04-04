@@ -1,0 +1,30 @@
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.RomDownloader.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.initialSetupForm.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.Properties.Resources.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.romPlayer.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.romStartOkayForm.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.setUpEmulatorForm.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.webBrowserFormControl.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.csproj.GenerateResource.Cache
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Game Rewind.exe.config
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Game Rewind.exe.manifest
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Game Rewind.application
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Game Rewind.exe
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Game Rewind.pdb
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.Forms.gameSelectionForm.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.selectionForm.resources
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.exe.manifest
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.application
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.exe
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.pdb
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.csprojResolveAssemblyReference.cache
