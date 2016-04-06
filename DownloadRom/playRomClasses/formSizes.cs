@@ -46,13 +46,13 @@ namespace DownloadRom
         public static int pageButtonX = pageStartX - betweenButtonX;
         public static int pageButtonY = pageStartY - 30;
 
-        public static int selectedPicX = 800;
+        public static int selectedPicX = 600;
         public static int selectedPicY = 300;
         public static int selectedPicLength = 150;
         public static int selectedPicHeight = 150;
 
         public static int selectedLabelsX = selectedPicX + selectedPicLength;
-        public static int selectedLabelY = selectedPicY;
+        public static int selectedLabelY = selectedPicY - 30;
         public static int inbeetweenlabelY = -25;
 
         public static int playSelectedGameX = selectedLabelsX;

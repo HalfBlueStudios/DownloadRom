@@ -67,6 +67,8 @@ namespace DownloadRom
             gameText.Visible = true;
             controlToAdd.Add(gamePic);
             controlToAdd.Add(gameText);
+            gamePic.BringToFront();
+            gameText.BringToFront();
         }
 
         public void hideRom(System.Windows.Forms.Control.ControlCollection controlToRemove)
@@ -103,9 +105,15 @@ namespace DownloadRom
             controlToAdd.Add(gamePic);
         }
 
-        public void movePic(Point newPoint)
+        public void moveRom(Point newPoint)
         {
-            //todo: move picture to new point 
+            gamePic.Location = newPoint;
+            gameText.Location = new Point(newPoint.X, newPoint.Y - formSizes.pictureTextSpaceBetweenY);
+        }
+
+        public Point getCurrentLocation()
+        {
+            return (gamePic.Location);
         }
 
         public void dispose()

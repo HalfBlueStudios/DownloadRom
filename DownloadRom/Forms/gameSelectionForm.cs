@@ -45,15 +45,23 @@ namespace DownloadRom.Forms
 
         public void setUpSelectedControls()
         {
+            Label selectedBox = new Label();
+            selectedBox.BackColor = Color.FromArgb(UISizes.selectBoxOpacity,UISizes.selectBoxColor);
+            selectedBox.Location = new Point(UISizes.selectBoxX, UISizes.selectBoxY);
+            selectedBox.Size = new Size(UISizes.selectBoxWidth, UISizes.selectBoxHeight);
+            selectedBox.SendToBack();
+
             selectedGamePic = new PictureBox();
             Bitmap resizedImage = new Bitmap(selectedGamePic.ErrorImage, new Size(formSizes.selectedPicLength, formSizes.selectedPicHeight));
             selectedGamePic.Image = resizedImage;
             selectedGamePic.Size = new Size(formSizes.selectedPicLength, formSizes.selectedPicHeight);
-            selectedGamePic.Location = new Point(formSizes.selectedPicX, formSizes.selectedPicY);
+            selectedGamePic.Location = new Point(formSizes.selectedPicX, formSizes.selectedPicY - 30);
             selectedGameName.AutoSize = true;
+            selectedGameName.Font = new Font(selectedGameName.Font.FontFamily, UISizes.selectedGameTextSize);
             selectedGameName.Text = "Name: ";
             selectedGameName.Location = new Point(formSizes.selectedLabelsX, formSizes.selectedLabelY);
             selectedGameSystem.AutoSize = true;
+            selectedGameSystem.Font = new Font(selectedGameSystem.Font.FontFamily, UISizes.selectedGameTextSize);
             selectedGameSystem.Text = "System: ";
             selectedGameSystem.Location = new Point(formSizes.selectedLabelsX,
                                                     formSizes.selectedLabelY - (formSizes.inbeetweenlabelY));
@@ -72,6 +80,7 @@ namespace DownloadRom.Forms
             Controls.Add(selectedGameGenre1);
             Controls.Add(selectedGameGenre2);
             Controls.Add(selectedGameGenre3);
+            Controls.Add(selectedBox);
         }
 
         //populates the list of games to select from
@@ -117,6 +126,12 @@ namespace DownloadRom.Forms
             if(currentlySelectedGame + numToAdd < 0 || currentlySelectedGame + numToAdd > listOfGames.Count - 1)
             {
                 return;
+            }
+            foreach(playableRom rom in listOfGames)
+            {
+                Point movePoint = new Point(rom.getCurrentLocation().X + (UISizes.spaceBetweenPicturesX * -numToAdd),
+                                            rom.getCurrentLocation().Y + (UISizes.spaceBetweenPicturesY * -numToAdd));
+                rom.moveRom(movePoint);
             }
             currentlySelectedGame += numToAdd;
             setSelectedGame(listOfGames[currentlySelectedGame]);

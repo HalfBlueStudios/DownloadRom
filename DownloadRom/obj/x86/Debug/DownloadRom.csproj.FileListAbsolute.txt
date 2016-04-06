@@ -28,3 +28,4 @@ C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.ap
 C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.exe
 C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\Game Rewind.pdb
 C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.csprojResolveAssemblyReference.cache
+C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\x86\Debug\DownloadRom.WebsiteSetUpForm.resources

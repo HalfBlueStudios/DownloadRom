@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Game Rewind.exe" size="466856">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Game Rewind.exe" size="467880">
       <assemblyIdentity name="Game Rewind" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SAluby5EASS8qOj9cRjTPvAiXr19VU/a468NfBfJMf8=</dsig:DigestValue>
+        <dsig:DigestValue>CoXKCxb/Us9P0qaQ2sj/NX/ETQsXPzq2xUpTt2CQyTE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace DownloadRom
 {
@@ -30,10 +31,20 @@ namespace DownloadRom
 
         public static int playablePictureX = 100;
         public static int playablePictureY = 300;
-        public static int spaceBetweenPicturesY = pictureHeight + 50;
+        public static int spaceBetweenPicturesY = pictureHeight + 200;
         public static int spaceBetweenPicturesX = 0;
 
         public static int gameDescriptionX = 300;
-        public static int gameDescriptionY = 300; 
+        public static int gameDescriptionY = 200;
+
+        public static int selectedGameTextSize = 20;
+
+
+        public static int selectBoxOpacity = 200;
+        public static Color selectBoxColor = Color.White;
+        public static int selectBoxX = 0;
+        public static int selectBoxY = formSizes.selectedPicY - 65;
+        public static int selectBoxWidth = 6000;
+        public static int selectBoxHeight = (int)(formSizes.selectedPicHeight * 1.5);
     }
 }
