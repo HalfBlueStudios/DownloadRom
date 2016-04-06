@@ -42,3 +42,18 @@ C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\Debug\Microsoft.Xna.Fram
 C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
 C:\Users\new user\Documents\DownloadRom\DownloadRom\bin\Debug\Microsoft.Xna.Framework.Input.Touch.xml
 C:\Users\new user\Documents\DownloadRom\DownloadRom\obj\Debug\DownloadRom.WebsiteSetUpForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\bin\Debug\Game Rewind.exe.config
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\Game Rewind.exe
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\Game Rewind.pdb
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.csprojResolveAssemblyReference.cache
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.RomDownloader.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.Forms.gameSelectionForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.selectionForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.initialSetupForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.WebsiteSetUpForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.Properties.Resources.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.romPlayer.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.romStartOkayForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.setUpEmulatorForm.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.webBrowserFormControl.resources
+C:\Users\keybl\Documents\GitHub\DownloadRom\DownloadRom\obj\Debug\DownloadRom.csproj.GenerateResource.Cache
